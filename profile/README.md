@@ -115,8 +115,11 @@
 - 2024년 9월 29일 ~ 2025년 4월 13일 (약 6개월)
 - https://github.com/Digging-Deep-Study/digging-deep-jvm
 
-### ⬜ 헤드퍼스트 디자인패턴
-- 2025년 4월 27일 ~ (진행중)
+### ✅ 헤드퍼스트 디자인패턴
+- 2025년 4월 27일 ~ 2025년 8월 3일 
 - https://github.com/Digging-Deep-Study/digging-deep-design-patterns
 
+### ⬜ 쉽게 배우는 운영체제
+- 2025년 9월 14일 ~ 진행중
+- https://github.com/Digging-Deep-Study/digging-deep-os
 
